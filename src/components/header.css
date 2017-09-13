@@ -1,0 +1,27 @@
+.car-detail{
+    position: fixed;
+    width: 500px;
+    background-color: white;
+    padding-top: 10px;
+    text-align: center;
+}
+.car-image{
+    width: 17%;
+}
+
+.close-button{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    float: left;
+    height: 10px;
+    cursor: pointer;
+}
+.info-button{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    float: right;
+    height: 10px;
+    cursor: pointer;
+}

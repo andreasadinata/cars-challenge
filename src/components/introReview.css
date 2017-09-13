@@ -1,0 +1,18 @@
+.intro{
+    margin: 20px 10px ;
+    text-align: center;
+}
+
+.intro h2{
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    letter-spacing: 0.25px;
+}
+
+.intro p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: gray;
+}

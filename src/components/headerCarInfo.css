@@ -1,0 +1,15 @@
+
+.car-mini-summary{
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 10px;
+    margin-left: 20px;
+
+}
+.car-name{
+    font-weight: 300;
+}
+
+.price-and-timer{
+    color: gray;
+}

@@ -1,0 +1,11 @@
+/*top content finance and car wanted*/
+.car-wanted-financing{
+    text-align: center;
+    margin: 20px 10% 20px 10%!important
+}
+.car-wanted-financing h3{
+    font-weight: 300;
+}
+.car-wanted-financing p{
+    color: gray;
+}
