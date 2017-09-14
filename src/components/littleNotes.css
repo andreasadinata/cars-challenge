@@ -12,3 +12,10 @@
 .little-notes p{
     font-size: 0.8em;
 }
+
+@media only screen and (max-width: 600px) {
+    .little-notes p{
+        font-size: 0.6em;
+    }
+
+}

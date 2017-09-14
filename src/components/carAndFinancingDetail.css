@@ -9,3 +9,10 @@
 .car-wanted-financing p{
     color: gray;
 }
+
+@media only screen and (max-width: 600px) {
+    .car-wanted-financing p, .car-wanted-financing h3{
+        font-size: 0.9em;
+    }
+
+}

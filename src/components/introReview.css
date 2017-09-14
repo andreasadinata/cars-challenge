@@ -1,6 +1,7 @@
 .intro{
-    margin: 20px 10px ;
     text-align: center;
+    margin-top: 110px;
+    margin-bottom: 20px;
 }
 
 .intro h2{
@@ -15,4 +16,12 @@
     margin-top: 5px;
     margin-bottom: 5px;
     color: gray;
+}
+
+@media only screen and (max-width: 600px) {
+    .intro{
+        margin-top: 100px;
+        margin-bottom: 15px;
+    }
+
 }

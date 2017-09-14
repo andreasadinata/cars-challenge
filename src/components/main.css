@@ -6,3 +6,10 @@
     margin-right: auto;
     overflow: scroll;
 }
+/*media query for iphone/ipad*/
+@media only screen and (max-width: 768px) {
+    .buying-option{
+        width: 100%;
+    }
+
+}
